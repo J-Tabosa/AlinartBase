@@ -1,4 +1,6 @@
-# Alinart — catálogo de produtos
+# AlinartBase
+
+> Sistema de Mi mama
 
 Catálogo estático da Alinart com filtros, busca, carregamento progressivo, carrinho persistente e preparação de pedido para WhatsApp/JSON.
 
