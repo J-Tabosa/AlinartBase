@@ -240,7 +240,7 @@ $("#continue-shopping").addEventListener("click", closeCart);
 document.addEventListener("keydown", (event) => { if (event.key === "Escape") closeCart(); });
 
 $("#send-whatsapp").addEventListener("click", () => {
-  window.open(`https://wa.me/?text=${encodeURIComponent(whatsappMessage(buildOrder()))}`, "_blank", "noopener,noreferrer");
+  window.open(`https://wa.me/5579981500406?text=${encodeURIComponent(whatsappMessage(buildOrder()))}`, "_blank", "noopener,noreferrer");
 });
 
 $("#copy-json").addEventListener("click", async () => {

@@ -1,7 +1,7 @@
 [
     {
         "id":  "ALI-001",
-        "name":  "Bolsa artesanal 001",
+        "name":  "Trio de mini bolsas com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -18,7 +18,7 @@
     },
     {
         "id":  "ALI-002",
-        "name":  "Bolsa artesanal 002",
+        "name":  "Bolsa bucket macramê bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -35,7 +35,7 @@
     },
     {
         "id":  "ALI-003",
-        "name":  "Bolsa artesanal 003",
+        "name":  "Bolsa de ombro preta com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -52,7 +52,7 @@
     },
     {
         "id":  "ALI-004",
-        "name":  "Bolsa artesanal 004",
+        "name":  "Bolsa carteiro caramelo",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -69,7 +69,7 @@
     },
     {
         "id":  "ALI-005",
-        "name":  "Bolsa artesanal 005",
+        "name":  "Bolsa clutch bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -86,7 +86,7 @@
     },
     {
         "id":  "ALI-006",
-        "name":  "Bolsa artesanal 006",
+        "name":  "Bolsa de ombro preta clássica",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -103,7 +103,7 @@
     },
     {
         "id":  "ALI-007",
-        "name":  "Bolsa artesanal 007",
+        "name":  "Bolsa caramelo com corrente dourada",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -120,7 +120,7 @@
     },
     {
         "id":  "ALI-008",
-        "name":  "Bolsa artesanal 008",
+        "name":  "Coleção bolsas em tons terrosos",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -137,7 +137,7 @@
     },
     {
         "id":  "ALI-009",
-        "name":  "Organizador em crochê 001",
+        "name":  "Kit cestos para higiene",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -154,7 +154,7 @@
     },
     {
         "id":  "ALI-010",
-        "name":  "Bolsa artesanal 009",
+        "name":  "Bolsa listrada colorida",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -171,7 +171,7 @@
     },
     {
         "id":  "ALI-011",
-        "name":  "Bolsa artesanal 010",
+        "name":  "Bolsa clutch preta com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -188,7 +188,7 @@
     },
     {
         "id":  "ALI-012",
-        "name":  "Bolsa artesanal 011",
+        "name":  "Bolsa arco terracota",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -205,7 +205,7 @@
     },
     {
         "id":  "ALI-013",
-        "name":  "Bolsa artesanal 012",
+        "name":  "Kit bolsa verde militar",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -222,7 +222,7 @@
     },
     {
         "id":  "ALI-014",
-        "name":  "Bolsa artesanal 013",
+        "name":  "Bolsa vintage bege com fecho",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -239,7 +239,7 @@
     },
     {
         "id":  "ALI-015",
-        "name":  "Bolsa artesanal 014",
+        "name":  "Bolsa floral Dia das Mães",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -256,7 +256,7 @@
     },
     {
         "id":  "ALI-016",
-        "name":  "Amigurumi 001",
+        "name":  "Amigurumi Lindinha das Meninas Superpoderosas",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -279,7 +279,7 @@
     },
     {
         "id":  "ALI-017",
-        "name":  "Amigurumi 002",
+        "name":  "Amigurumi boneca gatinha",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -300,7 +300,7 @@
     },
     {
         "id":  "ALI-018",
-        "name":  "Amigurumi 003",
+        "name":  "Chaveiro letra E lilás",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -323,7 +323,7 @@
     },
     {
         "id":  "ALI-019",
-        "name":  "Bolsa artesanal 015",
+        "name":  "Bolsa redonda verde com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -342,7 +342,7 @@
     },
     {
         "id":  "ALI-020",
-        "name":  "Bolsa artesanal 016",
+        "name":  "Bolsa meia-lua verde militar",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -359,7 +359,7 @@
     },
     {
         "id":  "ALI-021",
-        "name":  "Bolsa artesanal 017",
+        "name":  "Bolsa tote caramelo",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -378,7 +378,7 @@
     },
     {
         "id":  "ALI-022",
-        "name":  "Amigurumi 004",
+        "name":  "Chaveiro gatinho cinza",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -397,7 +397,7 @@
     },
     {
         "id":  "ALI-023",
-        "name":  "Amigurumi 005",
+        "name":  "Amigurumi Hollow Knight",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -417,7 +417,7 @@
     },
     {
         "id":  "ALI-024",
-        "name":  "Amigurumi 006",
+        "name":  "Amigurumi Hello Kitty rosa",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -436,7 +436,7 @@
     },
     {
         "id":  "ALI-025",
-        "name":  "Organizador em crochê 002",
+        "name":  "Kit higiene bebê azul",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -455,7 +455,7 @@
     },
     {
         "id":  "ALI-026",
-        "name":  "Amigurumi 007",
+        "name":  "Amigurumi Demogorgon",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -475,7 +475,7 @@
     },
     {
         "id":  "ALI-027",
-        "name":  "Amigurumi 008",
+        "name":  "Amigurumi baleia azul",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -495,7 +495,7 @@
     },
     {
         "id":  "ALI-028",
-        "name":  "Amigurumi 009",
+        "name":  "Amigurumis Angel e Stitch",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -517,7 +517,7 @@
     },
     {
         "id":  "ALI-029",
-        "name":  "Bolsa artesanal 018",
+        "name":  "Bolsa listrada preta e terracota",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -535,7 +535,7 @@
     },
     {
         "id":  "ALI-030",
-        "name":  "Amigurumi 010",
+        "name":  "Amigurumi macaco marrom",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -553,7 +553,7 @@
     },
     {
         "id":  "ALI-031",
-        "name":  "Amigurumi 011",
+        "name":  "Coleção amigurumis da floresta",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -575,7 +575,7 @@
     },
     {
         "id":  "ALI-032",
-        "name":  "Amigurumi 012",
+        "name":  "Amigurumi sapo verde",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -592,7 +592,7 @@
     },
     {
         "id":  "ALI-033",
-        "name":  "Amigurumi 013",
+        "name":  "Coleção amigurumis de Halloween",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -617,7 +617,7 @@
     },
     {
         "id":  "ALI-034",
-        "name":  "Bolsa artesanal 019",
+        "name":  "Bolsa bucket listrada bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -638,7 +638,7 @@
     },
     {
         "id":  "ALI-035",
-        "name":  "Peça de decoração 001",
+        "name":  "Vaso de crochê com suculenta",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -657,7 +657,7 @@
     },
     {
         "id":  "ALI-036",
-        "name":  "Amigurumi 014",
+        "name":  "Amigurumi Hello Kitty clássica",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -676,7 +676,7 @@
     },
     {
         "id":  "ALI-037",
-        "name":  "Amigurumi 015",
+        "name":  "Amigurumi patinho amarelo",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -694,7 +694,7 @@
     },
     {
         "id":  "ALI-038",
-        "name":  "Bolsa artesanal 020",
+        "name":  "Bolsa de mão bicolor com pérolas",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -712,7 +712,7 @@
     },
     {
         "id":  "ALI-039",
-        "name":  "Bolsa artesanal 021",
+        "name":  "Bolsa redonda rosa e verde",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -730,7 +730,7 @@
     },
     {
         "id":  "ALI-040",
-        "name":  "Amigurumi 016",
+        "name":  "Amigurumi cão marrom",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -748,7 +748,7 @@
     },
     {
         "id":  "ALI-041",
-        "name":  "Amigurumi 017",
+        "name":  "Amigurumi fada rosa",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -769,8 +769,8 @@
     },
     {
         "id":  "ALI-042",
-        "name":  "Amigurumi 018",
-        "category":  "Amigurumis",
+        "name":  "Mochila Bob Esponja",
+        "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
         "priceLabel":  "Sob consulta",
@@ -792,7 +792,7 @@
     },
     {
         "id":  "ALI-043",
-        "name":  "Bolsa artesanal 022",
+        "name":  "Bolsa redonda preta",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -809,7 +809,7 @@
     },
     {
         "id":  "ALI-044",
-        "name":  "Bolsa artesanal 023",
+        "name":  "Bolsa tote azul e bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -826,7 +826,7 @@
     },
     {
         "id":  "ALI-045",
-        "name":  "Amigurumi 019",
+        "name":  "Amigurumi Angel rosa",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -845,7 +845,7 @@
     },
     {
         "id":  "ALI-046",
-        "name":  "Amigurumi 020",
+        "name":  "Amigurumi Jesus",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -863,7 +863,7 @@
     },
     {
         "id":  "ALI-047",
-        "name":  "Amigurumi 021",
+        "name":  "Amigurumi ovelha",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -882,8 +882,8 @@
     },
     {
         "id":  "ALI-048",
-        "name":  "Amigurumi 022",
-        "category":  "Amigurumis",
+        "name":  "Vaso de crochê com cacto",
+        "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
         "priceLabel":  "Sob consulta",
@@ -900,7 +900,7 @@
     },
     {
         "id":  "ALI-049",
-        "name":  "Amigurumi 023",
+        "name":  "Amigurumi Snoopy",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -918,7 +918,7 @@
     },
     {
         "id":  "ALI-050",
-        "name":  "Amigurumi 024",
+        "name":  "Amigurumi caranguejo vermelho",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -937,7 +937,7 @@
     },
     {
         "id":  "ALI-051",
-        "name":  "Peça para bebê 001",
+        "name":  "Kit sapatinhos de bebê",
         "category":  "Moda bebê",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -960,7 +960,7 @@
     },
     {
         "id":  "ALI-052",
-        "name":  "Amigurumi 025",
+        "name":  "Amigurumi Homem-Aranha",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -978,7 +978,7 @@
     },
     {
         "id":  "ALI-053",
-        "name":  "Acessório artesanal 001",
+        "name":  "Chaveiros mandala com tassel",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1000,7 +1000,7 @@
     },
     {
         "id":  "ALI-054",
-        "name":  "Amigurumi 026",
+        "name":  "Amigurumi Stitch azul",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1020,7 +1020,7 @@
     },
     {
         "id":  "ALI-055",
-        "name":  "Amigurumi 027",
+        "name":  "Amigurumi boneca princesa lilás",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1039,7 +1039,7 @@
     },
     {
         "id":  "ALI-056",
-        "name":  "Amigurumi 028",
+        "name":  "Amigurumis polvos lilás",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1059,7 +1059,7 @@
     },
     {
         "id":  "ALI-057",
-        "name":  "Peça de decoração 002",
+        "name":  "Mandala Divino Espírito Santo",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1078,8 +1078,8 @@
     },
     {
         "id":  "ALI-058",
-        "name":  "Organizador em crochê 003",
-        "category":  "Organizadores",
+        "name":  "Mochila infantil dinossauro azul",
+        "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
         "priceLabel":  "Sob consulta",
@@ -1095,7 +1095,7 @@
     },
     {
         "id":  "ALI-059",
-        "name":  "Bolsa artesanal 024",
+        "name":  "Bolsa carteiro laranja",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1114,7 +1114,7 @@
     },
     {
         "id":  "ALI-060",
-        "name":  "Bolsa artesanal 025",
+        "name":  "Bolsa tote cinza e preta",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1131,7 +1131,7 @@
     },
     {
         "id":  "ALI-061",
-        "name":  "Bolsa artesanal 026",
+        "name":  "Bolsa tote preta e vinho",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1150,7 +1150,7 @@
     },
     {
         "id":  "ALI-062",
-        "name":  "Acessório artesanal 002",
+        "name":  "Chaveiros mandala branco e dourado",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1168,7 +1168,7 @@
     },
     {
         "id":  "ALI-063",
-        "name":  "Organizador em crochê 004",
+        "name":  "Cesto degradê azul",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1189,7 +1189,7 @@
     },
     {
         "id":  "ALI-064",
-        "name":  "Bolsa artesanal 027",
+        "name":  "Bolsa listrada em tons pastel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1206,7 +1206,7 @@
     },
     {
         "id":  "ALI-065",
-        "name":  "Bolsa artesanal 028",
+        "name":  "Bolsa redonda Olho Grego",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1224,7 +1224,7 @@
     },
     {
         "id":  "ALI-066",
-        "name":  "Bolsa artesanal 029",
+        "name":  "Bolsa tote arco-íris",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1242,7 +1242,7 @@
     },
     {
         "id":  "ALI-067",
-        "name":  "Acessório artesanal 003",
+        "name":  "Carteiras porta-celular coloridas",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1263,7 +1263,7 @@
     },
     {
         "id":  "ALI-068",
-        "name":  "Bolsa artesanal 030",
+        "name":  "Bolsa tote em tons pastel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1282,7 +1282,7 @@
     },
     {
         "id":  "ALI-069",
-        "name":  "Bolsa artesanal 031",
+        "name":  "Bolsa listrada marrom e branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1303,7 +1303,7 @@
     },
     {
         "id":  "ALI-070",
-        "name":  "Acessório artesanal 004",
+        "name":  "Chaveiros mandala em tons terrosos",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1321,7 +1321,7 @@
     },
     {
         "id":  "ALI-071",
-        "name":  "Bolsa artesanal 032",
+        "name":  "Bolsa carteiro rosa com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1339,7 +1339,7 @@
     },
     {
         "id":  "ALI-072",
-        "name":  "Bolsa artesanal 033",
+        "name":  "Bolsa bucket lilás",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1358,7 +1358,7 @@
     },
     {
         "id":  "ALI-073",
-        "name":  "Bolsa artesanal 034",
+        "name":  "Chaveiros mandala lilás",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1375,7 +1375,7 @@
     },
     {
         "id":  "ALI-074",
-        "name":  "Bolsa artesanal 035",
+        "name":  "Bolsa carteiro verde",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1394,7 +1394,7 @@
     },
     {
         "id":  "ALI-075",
-        "name":  "Bolsa artesanal 036",
+        "name":  "Bolsa tote rosa",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1414,7 +1414,7 @@
     },
     {
         "id":  "ALI-076",
-        "name":  "Bolsa artesanal 037",
+        "name":  "Bolsa tote branca e mostarda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1433,7 +1433,7 @@
     },
     {
         "id":  "ALI-077",
-        "name":  "Bolsa artesanal 038",
+        "name":  "Bolsa tote arco-íris com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1452,7 +1452,7 @@
     },
     {
         "id":  "ALI-078",
-        "name":  "Bolsa artesanal 039",
+        "name":  "Bolsa de mão branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1470,7 +1470,7 @@
     },
     {
         "id":  "ALI-079",
-        "name":  "Bolsa artesanal 040",
+        "name":  "Bolsa clutch rosa com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1489,7 +1489,7 @@
     },
     {
         "id":  "ALI-080",
-        "name":  "Organizador em crochê 005",
+        "name":  "Kit cestos rosa e cinza",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1514,7 +1514,7 @@
     },
     {
         "id":  "ALI-081",
-        "name":  "Amigurumi 029",
+        "name":  "Amigurumi unicórnio branco",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1534,7 +1534,7 @@
     },
     {
         "id":  "ALI-082",
-        "name":  "Peça de decoração 003",
+        "name":  "Coleção mini vasos de suculentas",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1552,7 +1552,7 @@
     },
     {
         "id":  "ALI-083",
-        "name":  "Amigurumi 030",
+        "name":  "Coleção amigurumis Minions",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1572,7 +1572,7 @@
     },
     {
         "id":  "ALI-084",
-        "name":  "Organizador em crochê 006",
+        "name":  "Kit potes de higiene bege",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1592,7 +1592,7 @@
     },
     {
         "id":  "ALI-085",
-        "name":  "Bolsa artesanal 041",
+        "name":  "Bolsa redonda Olho Grego azul",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1610,7 +1610,7 @@
     },
     {
         "id":  "ALI-086",
-        "name":  "Bolsa artesanal 042",
+        "name":  "Bolsa tote vermelha",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1628,7 +1628,7 @@
     },
     {
         "id":  "ALI-087",
-        "name":  "Bolsa artesanal 043",
+        "name":  "Bolsa tote laranja e branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1645,7 +1645,7 @@
     },
     {
         "id":  "ALI-088",
-        "name":  "Bolsa artesanal 044",
+        "name":  "Bolsa bucket azul",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1662,7 +1662,7 @@
     },
     {
         "id":  "ALI-089",
-        "name":  "Bolsa artesanal 045",
+        "name":  "Bolsa pochete verde",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1679,7 +1679,7 @@
     },
     {
         "id":  "ALI-090",
-        "name":  "Acessório artesanal 005",
+        "name":  "Kit mini porta-trecos bege",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1696,7 +1696,7 @@
     },
     {
         "id":  "ALI-091",
-        "name":  "Bolsa artesanal 046",
+        "name":  "Bolsa carteiro cinza com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1713,7 +1713,7 @@
     },
     {
         "id":  "ALI-092",
-        "name":  "Bolsa artesanal 047",
+        "name":  "Bolsa tote azul e branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1732,7 +1732,7 @@
     },
     {
         "id":  "ALI-093",
-        "name":  "Bolsa artesanal 048",
+        "name":  "Bolsa carteiro grafite",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1749,7 +1749,7 @@
     },
     {
         "id":  "ALI-094",
-        "name":  "Bolsa artesanal 049",
+        "name":  "Bolsa tote rosa e roxa",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1768,7 +1768,7 @@
     },
     {
         "id":  "ALI-095",
-        "name":  "Bolsa artesanal 050",
+        "name":  "Bolsa carteiro laranja com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1786,7 +1786,7 @@
     },
     {
         "id":  "ALI-096",
-        "name":  "Bolsa artesanal 051",
+        "name":  "Bolsa arco-íris",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1805,7 +1805,7 @@
     },
     {
         "id":  "ALI-097",
-        "name":  "Bolsa artesanal 052",
+        "name":  "Bolsa redonda rosa",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1823,7 +1823,7 @@
     },
     {
         "id":  "ALI-098",
-        "name":  "Organizador em crochê 007",
+        "name":  "Kit higiene bebê colorido",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1847,7 +1847,7 @@
     },
     {
         "id":  "ALI-099",
-        "name":  "Bolsa artesanal 053",
+        "name":  "Carteira de mão verde",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1866,7 +1866,7 @@
     },
     {
         "id":  "ALI-100",
-        "name":  "Bolsa artesanal 054",
+        "name":  "Mini bolsa rosa",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1884,7 +1884,7 @@
     },
     {
         "id":  "ALI-101",
-        "name":  "Bolsa artesanal 055",
+        "name":  "Bolsa tote bege com alça preta",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1903,7 +1903,7 @@
     },
     {
         "id":  "ALI-102",
-        "name":  "Bolsa artesanal 056",
+        "name":  "Bolsa redonda azul e branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1923,7 +1923,7 @@
     },
     {
         "id":  "ALI-103",
-        "name":  "Bolsa artesanal 057",
+        "name":  "Bolsa carteiro rosa texturizada com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1943,7 +1943,7 @@
     },
     {
         "id":  "ALI-104",
-        "name":  "Organizador em crochê 008",
+        "name":  "Kit cestos lilás",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1963,7 +1963,7 @@
     },
     {
         "id":  "ALI-105",
-        "name":  "Bolsa artesanal 058",
+        "name":  "Bolsa bucket vinho",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1981,7 +1981,7 @@
     },
     {
         "id":  "ALI-106",
-        "name":  "Bolsa artesanal 059",
+        "name":  "Bolsa carteiro vinho felpuda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -1999,7 +1999,7 @@
     },
     {
         "id":  "ALI-107",
-        "name":  "Bolsa artesanal 060",
+        "name":  "Bolsa carteiro branca felpuda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2017,7 +2017,7 @@
     },
     {
         "id":  "ALI-108",
-        "name":  "Bolsa artesanal 061",
+        "name":  "Bolsa carteiro verde com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2035,7 +2035,7 @@
     },
     {
         "id":  "ALI-109",
-        "name":  "Bolsa artesanal 062",
+        "name":  "Bolsa listrada rosa e verde",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2054,7 +2054,7 @@
     },
     {
         "id":  "ALI-110",
-        "name":  "Bolsa artesanal 063",
+        "name":  "Bolsa bucket preta com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2073,7 +2073,7 @@
     },
     {
         "id":  "ALI-111",
-        "name":  "Bolsa artesanal 064",
+        "name":  "Bolsa tote azul e branca com renda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2092,7 +2092,7 @@
     },
     {
         "id":  "ALI-112",
-        "name":  "Organizador em crochê 009",
+        "name":  "Kit higiene verde e branco",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2114,7 +2114,7 @@
     },
     {
         "id":  "ALI-113",
-        "name":  "Bolsa artesanal 065",
+        "name":  "Bolsa redonda preta e mostarda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2132,7 +2132,7 @@
     },
     {
         "id":  "ALI-114",
-        "name":  "Bolsa artesanal 066",
+        "name":  "Bolsa tote rosa e vinho",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2150,7 +2150,7 @@
     },
     {
         "id":  "ALI-115",
-        "name":  "Bolsa artesanal 067",
+        "name":  "Bolsa tote rosa com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2168,7 +2168,7 @@
     },
     {
         "id":  "ALI-116",
-        "name":  "Organizador em crochê 010",
+        "name":  "Cesto azul e cinza",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2187,7 +2187,7 @@
     },
     {
         "id":  "ALI-117",
-        "name":  "Organizador em crochê 011",
+        "name":  "Cesto rosa com tampa",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2206,7 +2206,7 @@
     },
     {
         "id":  "ALI-118",
-        "name":  "Organizador em crochê 012",
+        "name":  "Mini cestos verdes",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2224,7 +2224,7 @@
     },
     {
         "id":  "ALI-119",
-        "name":  "Bolsa artesanal 068",
+        "name":  "Bolsa tote vermelha com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2242,7 +2242,7 @@
     },
     {
         "id":  "ALI-120",
-        "name":  "Bolsa artesanal 069",
+        "name":  "Bolsa redonda verde com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2261,7 +2261,7 @@
     },
     {
         "id":  "ALI-121",
-        "name":  "Peça de decoração 004",
+        "name":  "Coleção mini cachepôs pretos",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2279,7 +2279,7 @@
     },
     {
         "id":  "ALI-122",
-        "name":  "Peça de decoração 005",
+        "name":  "Cachepôs de cacto pink e verde",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2296,7 +2296,7 @@
     },
     {
         "id":  "ALI-123",
-        "name":  "Bolsa artesanal 070",
+        "name":  "Bolsa redonda preta com alça rígida",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2315,7 +2315,7 @@
     },
     {
         "id":  "ALI-124",
-        "name":  "Peça de decoração 006",
+        "name":  "Cachepô de cacto terracota",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2333,7 +2333,7 @@
     },
     {
         "id":  "ALI-125",
-        "name":  "Bolsa artesanal 071",
+        "name":  "Bolsa carteiro preta e branca",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2352,7 +2352,7 @@
     },
     {
         "id":  "ALI-126",
-        "name":  "Bolsa artesanal 072",
+        "name":  "Bolsa redonda preta clássica",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2370,7 +2370,7 @@
     },
     {
         "id":  "ALI-127",
-        "name":  "Bolsa artesanal 073",
+        "name":  "Bolsa tote degradê azul",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2390,7 +2390,7 @@
     },
     {
         "id":  "ALI-128",
-        "name":  "Bolsa artesanal 074",
+        "name":  "Bolsa tote grafite",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2409,7 +2409,7 @@
     },
     {
         "id":  "ALI-129",
-        "name":  "Acessório artesanal 006",
+        "name":  "Kit porta-trecos roxo",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2427,7 +2427,7 @@
     },
     {
         "id":  "ALI-130",
-        "name":  "Amigurumi 031",
+        "name":  "Amigurumi coelho branco",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2447,7 +2447,7 @@
     },
     {
         "id":  "ALI-131",
-        "name":  "Organizador em crochê 013",
+        "name":  "Kit cestos mesclados azul",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2466,7 +2466,7 @@
     },
     {
         "id":  "ALI-132",
-        "name":  "Organizador em crochê 014",
+        "name":  "Kit cestos azul",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2485,7 +2485,7 @@
     },
     {
         "id":  "ALI-133",
-        "name":  "Bolsa artesanal 075",
+        "name":  "Bolsa bucket vermelha",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2503,7 +2503,7 @@
     },
     {
         "id":  "ALI-134",
-        "name":  "Bolsa artesanal 076",
+        "name":  "Bolsa carteiro rosa com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2521,7 +2521,7 @@
     },
     {
         "id":  "ALI-135",
-        "name":  "Peça de decoração 007",
+        "name":  "Árvore de Natal em amigurumi",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2541,7 +2541,7 @@
     },
     {
         "id":  "ALI-136",
-        "name":  "Amigurumi 032",
+        "name":  "Amigurumi tartaruga verde",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2559,7 +2559,7 @@
     },
     {
         "id":  "ALI-137",
-        "name":  "Amigurumi 033",
+        "name":  "Amigurumi coelha rosa",
         "category":  "Amigurumis",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2578,7 +2578,7 @@
     },
     {
         "id":  "ALI-138",
-        "name":  "Bolsa artesanal 077",
+        "name":  "Bolsa de mão bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2596,7 +2596,7 @@
     },
     {
         "id":  "ALI-139",
-        "name":  "Bolsa artesanal 078",
+        "name":  "Bolsa bucket preta e mostarda",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2616,7 +2616,7 @@
     },
     {
         "id":  "ALI-140",
-        "name":  "Organizador em crochê 015",
+        "name":  "Kit cestos lilás com alças",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2636,7 +2636,7 @@
     },
     {
         "id":  "ALI-141",
-        "name":  "Organizador em crochê 016",
+        "name":  "Kit higiene verde",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2657,7 +2657,7 @@
     },
     {
         "id":  "ALI-142",
-        "name":  "Bolsa artesanal 079",
+        "name":  "Bolsa tote preta clássica",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2676,7 +2676,7 @@
     },
     {
         "id":  "ALI-143",
-        "name":  "Bolsa artesanal 080",
+        "name":  "Bolsa clutch pink",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2696,7 +2696,7 @@
     },
     {
         "id":  "ALI-144",
-        "name":  "Bolsa artesanal 081",
+        "name":  "Bolsa redonda rosa e bege",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2715,7 +2715,7 @@
     },
     {
         "id":  "ALI-145",
-        "name":  "Bolsa artesanal 082",
+        "name":  "Bolsa carteiro rosa com alça rígida",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2734,7 +2734,7 @@
     },
     {
         "id":  "ALI-146",
-        "name":  "Bolsa artesanal 083",
+        "name":  "Bolsa bucket lilás degradê",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2753,7 +2753,7 @@
     },
     {
         "id":  "ALI-147",
-        "name":  "Acessório pet 001",
+        "name":  "Touca pet floral",
         "category":  "Pet",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2773,7 +2773,7 @@
     },
     {
         "id":  "ALI-148",
-        "name":  "Acessório artesanal 007",
+        "name":  "Bolsa bucket xadrez rosa",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2795,7 +2795,7 @@
     },
     {
         "id":  "ALI-149",
-        "name":  "Bolsa artesanal 084",
+        "name":  "Kit bolsa e porta-copos preto",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2814,7 +2814,7 @@
     },
     {
         "id":  "ALI-150",
-        "name":  "Bolsa artesanal 085",
+        "name":  "Bolsa carteiro preta com corrente",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2832,8 +2832,8 @@
     },
     {
         "id":  "ALI-151",
-        "name":  "Peça de decoração 008",
-        "category":  "Casa \u0026 decoração",
+        "name":  "Cropped de crochê verde com franjas",
+        "category":  "Vestuário",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
         "priceLabel":  "Sob consulta",
@@ -2850,7 +2850,7 @@
     },
     {
         "id":  "ALI-152",
-        "name":  "Peça para bebê 002",
+        "name":  "Kit sandálias de bebê azul",
         "category":  "Moda bebê",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2870,7 +2870,7 @@
     },
     {
         "id":  "ALI-153",
-        "name":  "Bolsa artesanal 086",
+        "name":  "Bolsa bucket azul com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2890,7 +2890,7 @@
     },
     {
         "id":  "ALI-154",
-        "name":  "Peça para bebê 003",
+        "name":  "Sandália de bebê vermelha",
         "category":  "Moda bebê",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2910,7 +2910,7 @@
     },
     {
         "id":  "ALI-155",
-        "name":  "Bolsa artesanal 087",
+        "name":  "Bolsa carteiro pink",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2931,7 +2931,7 @@
     },
     {
         "id":  "ALI-156",
-        "name":  "Acessório artesanal 008",
+        "name":  "Kit porta-garrafas bege",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2949,7 +2949,7 @@
     },
     {
         "id":  "ALI-157",
-        "name":  "Organizador em crochê 017",
+        "name":  "Kit higiene bebê azul e rosa",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2969,7 +2969,7 @@
     },
     {
         "id":  "ALI-158",
-        "name":  "Bolsa artesanal 088",
+        "name":  "Bolsa redonda azul Olho Grego",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -2986,7 +2986,7 @@
     },
     {
         "id":  "ALI-159",
-        "name":  "Bolsa artesanal 089",
+        "name":  "Bolsa tote bege com tassel",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3006,7 +3006,7 @@
     },
     {
         "id":  "ALI-160",
-        "name":  "Peça de decoração 009",
+        "name":  "Caminho de mesa vermelho floral",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3025,7 +3025,7 @@
     },
     {
         "id":  "ALI-161",
-        "name":  "Bolsa artesanal 090",
+        "name":  "Bolsa carteiro vermelha",
         "category":  "Bolsas",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3045,7 +3045,7 @@
     },
     {
         "id":  "ALI-162",
-        "name":  "Organizador em crochê 018",
+        "name":  "Cesto branco com laço vermelho",
         "category":  "Organizadores",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3066,7 +3066,7 @@
     },
     {
         "id":  "ALI-163",
-        "name":  "Peça de decoração 010",
+        "name":  "Kit porta-copos floral",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3087,7 +3087,7 @@
     },
     {
         "id":  "ALI-164",
-        "name":  "Acessório artesanal 009",
+        "name":  "Kit laços de tecido",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3106,7 +3106,7 @@
     },
     {
         "id":  "ALI-165",
-        "name":  "Peça de decoração 011",
+        "name":  "Jogo de sousplat vermelho",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3126,7 +3126,7 @@
     },
     {
         "id":  "ALI-166",
-        "name":  "Peça de decoração 012",
+        "name":  "Jogo de centro de mesa cinza",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3144,7 +3144,7 @@
     },
     {
         "id":  "ALI-167",
-        "name":  "Peça de decoração 013",
+        "name":  "Kit presente em crochê",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3164,7 +3164,7 @@
     },
     {
         "id":  "ALI-168",
-        "name":  "Peça de decoração 014",
+        "name":  "Centro de mesa azul",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3183,7 +3183,7 @@
     },
     {
         "id":  "ALI-169",
-        "name":  "Peça de decoração 015",
+        "name":  "Jogo de cozinha verde",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3205,7 +3205,7 @@
     },
     {
         "id":  "ALI-170",
-        "name":  "Peça para bebê 004",
+        "name":  "Kit lembrancinhas de bebê",
         "category":  "Moda bebê",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3225,7 +3225,7 @@
     },
     {
         "id":  "ALI-171",
-        "name":  "Peça de decoração 016",
+        "name":  "Kit cestos laranja",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3245,7 +3245,7 @@
     },
     {
         "id":  "ALI-172",
-        "name":  "Peça de decoração 017",
+        "name":  "Cesto rosa com laço",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3265,7 +3265,7 @@
     },
     {
         "id":  "ALI-173",
-        "name":  "Peça para bebê 005",
+        "name":  "Lembrancinhas coelhinho de Páscoa",
         "category":  "Moda bebê",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3285,7 +3285,7 @@
     },
     {
         "id":  "ALI-174",
-        "name":  "Peça de decoração 018",
+        "name":  "Kit cachepôs laranja",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3305,7 +3305,7 @@
     },
     {
         "id":  "ALI-175",
-        "name":  "Acessório artesanal 010",
+        "name":  "Carteira de mão verde com laço",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3326,7 +3326,7 @@
     },
     {
         "id":  "ALI-176",
-        "name":  "Peça de decoração 019",
+        "name":  "Almofadas nó coloridas",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3346,7 +3346,7 @@
     },
     {
         "id":  "ALI-177",
-        "name":  "Peça de decoração 020",
+        "name":  "Arranjo de flores em crochê",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3370,7 +3370,7 @@
     },
     {
         "id":  "ALI-178",
-        "name":  "Peça de decoração 021",
+        "name":  "Jogo de banheiro vermelho",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3390,7 +3390,7 @@
     },
     {
         "id":  "ALI-179",
-        "name":  "Peça de decoração 022",
+        "name":  "Kit cachepôs decorativos",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3412,7 +3412,7 @@
     },
     {
         "id":  "ALI-180",
-        "name":  "Peça de decoração 023",
+        "name":  "Jogo de mesa vermelho",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3432,7 +3432,7 @@
     },
     {
         "id":  "ALI-181",
-        "name":  "Peça de decoração 024",
+        "name":  "Kit cachepôs com laços",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3453,7 +3453,7 @@
     },
     {
         "id":  "ALI-182",
-        "name":  "Peça de decoração 025",
+        "name":  "Kit cachepôs preto e branco",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3471,7 +3471,7 @@
     },
     {
         "id":  "ALI-183",
-        "name":  "Peça de decoração 026",
+        "name":  "Almofadas nó neutras",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3488,7 +3488,7 @@
     },
     {
         "id":  "ALI-184",
-        "name":  "Peça de decoração 027",
+        "name":  "Jogo americano azul e branco",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3505,7 +3505,7 @@
     },
     {
         "id":  "ALI-185",
-        "name":  "Peça de decoração 028",
+        "name":  "Jogo americano azul floral",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3523,7 +3523,7 @@
     },
     {
         "id":  "ALI-186",
-        "name":  "Peça de decoração 029",
+        "name":  "Centro de mesa branco",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3542,7 +3542,7 @@
     },
     {
         "id":  "ALI-187",
-        "name":  "Peça de decoração 030",
+        "name":  "Jogo de banheiro vermelho floral",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3560,7 +3560,7 @@
     },
     {
         "id":  "ALI-188",
-        "name":  "Acessório artesanal 011",
+        "name":  "Apliques de flores brancas",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3578,7 +3578,7 @@
     },
     {
         "id":  "ALI-189",
-        "name":  "Peça de decoração 031",
+        "name":  "Jogo de cozinha azul",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3597,7 +3597,7 @@
     },
     {
         "id":  "ALI-190",
-        "name":  "Peça de decoração 032",
+        "name":  "Jogo de mesa azul",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3614,7 +3614,7 @@
     },
     {
         "id":  "ALI-191",
-        "name":  "Peça de decoração 033",
+        "name":  "Sousplats florais",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3632,7 +3632,7 @@
     },
     {
         "id":  "ALI-192",
-        "name":  "Peça de decoração 034",
+        "name":  "Centro de mesa azul mesclado",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3649,7 +3649,7 @@
     },
     {
         "id":  "ALI-193",
-        "name":  "Acessório artesanal 012",
+        "name":  "Pingente coração rosa",
         "category":  "Acessórios",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3666,7 +3666,7 @@
     },
     {
         "id":  "ALI-194",
-        "name":  "Peça de decoração 035",
+        "name":  "Composição mesa posta marrom e branca",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,
@@ -3683,7 +3683,7 @@
     },
     {
         "id":  "ALI-195",
-        "name":  "Peça de decoração 036",
+        "name":  "Jogo americano floral",
         "category":  "Casa \u0026 decoração",
         "description":  "Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.",
         "price":  null,

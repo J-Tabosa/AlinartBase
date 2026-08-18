@@ -5,6 +5,7 @@ $workspaceDir = Split-Path -Parent $projectDir
 $csvPath = Join-Path $workspaceDir 'alinart_aju_imagens.csv'
 $dataDir = Join-Path $projectDir 'data'
 $catalogDir = Join-Path $projectDir 'assets\catalogo'
+$namesPath = Join-Path $dataDir 'product-names.json'
 
 if (-not (Test-Path -LiteralPath $csvPath)) {
     throw "Arquivo não encontrado: $csvPath"
@@ -12,9 +13,14 @@ if (-not (Test-Path -LiteralPath $csvPath)) {
 
 New-Item -ItemType Directory -Path $dataDir -Force | Out-Null
 
+if (-not (Test-Path -LiteralPath $namesPath)) {
+    throw "Arquivo de nomes não encontrado: $namesPath"
+}
+
 $rows = Import-Csv -LiteralPath $csvPath
 $groups = $rows | Group-Object publicacao
 $categories = @{}
+$productNames = [System.IO.File]::ReadAllText($namesPath, [System.Text.UTF8Encoding]::new($false)) | ConvertFrom-Json
 
 for ($index = 1; $index -le $groups.Count; $index++) {
     $categories[$index] = 'Casa & decoração'
@@ -50,6 +56,9 @@ Set-Category 'Organizadores' @(
 Set-Category 'Moda bebê' @(51, 152, 154, 170, 173)
 Set-Category 'Pet' @(147)
 Set-Category 'Institucional' @(196)
+Set-Category 'Bolsas' @(42, 58)
+Set-Category 'Casa & decoração' @(48)
+Set-Category 'Vestuário' @(151)
 
 $namePrefixes = @{
     'Bolsas' = 'Bolsa artesanal'
@@ -60,6 +69,7 @@ $namePrefixes = @{
     'Casa & decoração' = 'Peça de decoração'
     'Pet' = 'Acessório pet'
     'Institucional' = 'Alinart Artes & Cia'
+    'Vestuário' = 'Peça de vestuário'
 }
 
 $categoryCounters = @{}
@@ -81,15 +91,13 @@ for ($position = 0; $position -lt $groups.Count; $position++) {
         throw "Capa local não encontrada para o item $number"
     }
 
+    $id = "ALI-{0:D3}" -f $number
     $displayNumber = $categoryCounters[$category].ToString('D3')
-    $name = if ($category -eq 'Institucional') {
-        $namePrefixes[$category]
-    } else {
-        "$($namePrefixes[$category]) $displayNumber"
-    }
+    $descriptiveName = $productNames.$id
+    $name = if ($descriptiveName) { $descriptiveName } else { "$($namePrefixes[$category]) $displayNumber" }
 
     $products += [ordered]@{
-        id = "ALI-{0:D3}" -f $number
+        id = $id
         name = $name
         category = $category
         description = 'Peça artesanal publicada pela Alinart. Nome, disponibilidade e valor devem ser confirmados no atendimento.'
