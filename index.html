@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Catálogo Alinart — crochê, afeto e criatividade em cada ponto." />
+    <title>Alinart — artes &amp; cia</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data/products.js"></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#inicio" aria-label="Alinart, início">
+        <span class="brand-mark" aria-hidden="true">A</span>
+        <span>Alinart<small>artes &amp; cia</small></span>
+      </a>
+
+      <nav aria-label="Navegação principal">
+        <a href="#catalogo">Produtos</a>
+        <a href="#sobre">Nossa essência</a>
+      </nav>
+
+      <button class="cart-trigger" id="open-cart" type="button" aria-label="Abrir sacola">
+        <span aria-hidden="true">Sacola</span>
+        <span class="cart-count" id="cart-count">0</span>
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="hero-copy">
+          <p class="eyebrow">Crochê que vira afeto</p>
+          <h1>Criatividade em<br /><em>cada ponto.</em></h1>
+          <p class="hero-text">Bolsas, amigurumis e peças artesanais criadas à mão, com cuidado e personalidade.</p>
+          <a class="primary-button" href="#catalogo">Conhecer a coleção <span aria-hidden="true">→</span></a>
+        </div>
+
+        <div class="hero-art" aria-label="Composição ilustrada de produtos artesanais">
+          <div class="sun-shape"></div>
+          <div class="arch-card"><span>feito</span><strong>com carinho</strong><i>✦</i></div>
+          <div class="hero-bag"><span class="bag-handle"></span><span class="bag-flower">✿</span></div>
+          <span class="scribble">feito para durar</span>
+        </div>
+      </section>
+
+      <section class="catalog" id="catalogo">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Nosso catálogo</p>
+            <h2>Escolha seus favoritos</h2>
+          </div>
+          <p>Pequenas tiragens, grandes histórias. Encontre a peça que combina com você.</p>
+        </div>
+
+        <div class="catalog-toolbar">
+          <div class="filters" id="filters" aria-label="Filtrar por categoria"></div>
+
+          <label class="search-box">
+            <span class="sr-only">Buscar produtos</span>
+            <input id="search" type="search" placeholder="Buscar uma peça..." autocomplete="off" />
+            <span aria-hidden="true">⌕</span>
+          </label>
+
+          <label class="sort-box">
+            <span class="sr-only">Ordenar produtos</span>
+            <select id="sort">
+              <option value="featured">Destaques</option>
+              <option value="lowest">Menor preço</option>
+              <option value="highest">Maior preço</option>
+              <option value="name">Nome A–Z</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="results-line"><span id="result-count"></span><span class="line"></span></div>
+        <div class="product-grid" id="product-grid"></div>
+        <p class="empty-state" id="empty-state" hidden>Nenhuma peça encontrada. Tente outro filtro ou termo.</p>
+        <button class="load-more" id="load-more" type="button">Mostrar mais produtos</button>
+      </section>
+
+      <section class="about" id="sobre">
+        <div class="about-stamp"><span>✦</span> produção<br />artesanal</div>
+        <div>
+          <p class="eyebrow">Nossa essência</p>
+          <h2>Do nosso ateliê<br />para a sua história.</h2>
+        </div>
+        <p>Cada detalhe é pensado para transformar materiais, cores e texturas em peças que carregam cuidado. Escolha com calma — a gente prepara tudo com carinho.</p>
+      </section>
+    </main>
+
+    <footer>
+      <a class="brand footer-brand" href="#inicio">
+        <span class="brand-mark">A</span>
+        <span>Alinart<small>artes &amp; cia</small></span>
+      </a>
+      <p>Peças autorais • Produção artesanal • Brasil</p>
+      <p>© <span id="year"></span> Alinart</p>
+    </footer>
+
+    <div class="overlay" id="overlay" hidden></div>
+
+    <aside class="cart-drawer" id="cart-drawer" aria-labelledby="cart-title" aria-hidden="true">
+      <div class="cart-header">
+        <div>
+          <p class="eyebrow">Seu pedido</p>
+          <h2 id="cart-title">Minha sacola</h2>
+        </div>
+        <button class="icon-button" id="close-cart" type="button" aria-label="Fechar sacola">×</button>
+      </div>
+
+      <div class="cart-items" id="cart-items"></div>
+
+      <div class="cart-empty" id="cart-empty">
+        <span aria-hidden="true">◡̈</span>
+        <h3>Sua sacola está vazia</h3>
+        <p>Adicione algumas peças para montar seu pedido.</p>
+        <button class="text-button" id="continue-shopping" type="button">Ver produtos</button>
+      </div>
+
+      <div class="cart-checkout" id="cart-checkout" hidden>
+        <div class="cart-total">
+          <span>Total estimado</span>
+          <strong id="cart-total">R$ 0,00</strong>
+        </div>
+        <p class="cart-note">O valor de entrega será combinado no atendimento.</p>
+
+        <div class="customer-fields">
+          <label>Seu nome<input id="customer-name" type="text" placeholder="Como podemos chamar você?" /></label>
+          <label>Observações<textarea id="customer-notes" rows="2" placeholder="Cores, tamanhos ou outros detalhes..."></textarea></label>
+        </div>
+
+        <button class="whatsapp-button" id="send-whatsapp" type="button">
+          <span aria-hidden="true">◉</span> Pedir pelo WhatsApp
+        </button>
+
+        <div class="export-actions">
+          <button id="copy-json" type="button">Copiar JSON</button>
+          <button id="download-json" type="button">Baixar JSON</button>
+        </div>
+        <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
+      </div>
+    </aside>
+
+    <template id="product-template">
+      <article class="product-card">
+        <div class="product-image">
+          <span class="product-badge"></span>
+          <div class="product-illustration"><img class="product-photo" alt="" loading="lazy" /></div>
+          <button class="quick-add" type="button" aria-label="Adicionar à sacola">+</button>
+        </div>
+        <div class="product-info">
+          <p class="product-category"></p>
+          <h3 class="product-name"></h3>
+          <div>
+            <strong class="product-price"></strong>
+            <button class="add-button" type="button">Adicionar</button>
+          </div>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>
